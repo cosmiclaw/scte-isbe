@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.576" height="21.938" viewBox="0 0 22.576 21.938">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Page_1" data-name="Page 1" transform="translate(0.5 0.5)">
+    <path id="Stroke_1" data-name="Stroke 1" class="cls-1" d="M18.084,8.772a8.91,8.91,0,0,1-9.042,8.772A8.91,8.91,0,0,1,0,8.772,8.91,8.91,0,0,1,9.042,0,8.91,8.91,0,0,1,18.084,8.772Z"/>
+    <path id="Stroke_3" data-name="Stroke 3" class="cls-1" d="M6.228,6.042,0,0" transform="translate(15.5 15.037)"/>
+  </g>
+</svg>
